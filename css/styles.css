@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+.bold-span {
+  text-decoration: underline;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #ccf2f4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #ccf2f4;
+}
+
+.bottom-container {
+  background-color: #aaaaaa;
+}
+
+p {
+  padding: 20px;
+}
+
+.top-luggage {
+  position: absolute;
+  right: 100px;
+  top: 100px;
+  width: 100px;
+}
+
+.bottom_luggage {
+  position: absolute;
+  width: 100px;
+  left: 65px;
+  top: 100px;
+}
+
+.hotel_image {
+  position: absolute;
+}
+
+.skill_image {
+  position: relative;
+  width: 60px;
+}
+
+.skill_icons {
+  position: relative;
+  width: 50px;
+}
+
+/*https://colorhunt.co/palette/258350*/
